@@ -1,4 +1,4 @@
-# Atcoder Archive
+# AtCoder Archive
 
 ## Rating
 
