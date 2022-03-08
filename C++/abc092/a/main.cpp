@@ -1,0 +1,10 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define rep(i, n) for (int i = 0; i < (int)(n); i++)
+
+int main() {
+  // input
+  int a, b, c, d; cin >> a >> b >> c >> d;
+  // output
+  cout << min(a, b) + min(c, d) << endl;
+}
